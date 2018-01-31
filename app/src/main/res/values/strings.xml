@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Tolkien Universe Quiz</string>
+
+    <string name="intro_message">Please answer the questions below and hit the submit button at the bottom to get your score:</string>
+
+    <string name="question_1">1. How many Rings of Power were forged in the second age?</string>
+    <string name="answer_1_1">20</string>
+    <string name="answer_1_2">11</string>
+    <string name="answer_1_3">9</string>
+
+    <string name="question_2">2. Elrond\'s twin brother chose mortality instead of immortality, like Elrond. What was his name?</string>
+    <string name="answer_2_1">El-Galad</string>
+    <string name="answer_2_2">Elros</string>
+    <string name="answer_2_3">Elwing</string>
+
+    <string name="question_3">3. In the days of Morgoth, he had an army of which creatures?</string>
+    <string name="answer_3_1">Fell beasts</string>
+    <string name="answer_3_2">Balrogs</string>
+    <string name="answer_3_3">Dragons</string>
+
+
+    <string name="question_4">4. The firstborn race on Arda were the _____</string>
+    <string name="answer_4_1">Elves</string>
+    <string name="answer_4_2">Men</string>
+    <string name="answer_4_3">Dwarves</string>
+
+    <string name="question_5">5. Who sent Gandalf to Middle-Earth?</string>
+    <string name="answer_5_1">Ulmo </string>
+    <string name="answer_5_2">Manwe</string>
+    <string name="answer_5_3">Illuvatar</string>
+
+    <string name="question_6">6. Elrond bears an Elven Ring called "Vilya". What does its name mean?</string>
+    <string name="answer_6_1">Fire</string>
+    <string name="answer_6_2">Water</string>
+    <string name="answer_6_3">Air</string>
+
+    <string name="question_7">7. Who created the Silmarils?</string>
+    <string name="answer_7_1">Feanor</string>
+    <string name="answer_7_2">Thingol</string>
+    <string name="answer_7_3">Eonwe</string>
+
+    <string name="question_8">8. For which product is the Shire famous?</string>
+    <string name="answer_8_1">Wool</string>
+    <string name="answer_8_2">Barley</string>
+    <string name="answer_8_3">Pipe-weed</string>
+
+    <string name="question_9">9. What name do the people of Rohan use when referring to themselves?</string>
+    <string name="answer_9_1">Horse Lords</string>
+    <string name="answer_9_2">Rohirrim</string>
+    <string name="answer_9_3">Eorlingas</string>
+
+    <string name="question_10">10. Where does Gimli promise to take Legolas if they both survive the war?</string>
+    <string name="answer_10_1">The Glittering Caves of Aglarond</string>
+    <string name="answer_10_2">The Mirrormere</string>
+    <string name="answer_10_3">The Endless Stair</string>
+
+    <string name="result_1">Where is Gandalf when you need him...</string>
+    <string name="result_2">Not bad for a halfling..</string>
+    <string name="result_3">Almost there!</string>
+    <string name="result_4">You are the true Lord of the rings!</string>
+</resources>
